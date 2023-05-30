@@ -1,0 +1,50 @@
+cd: Change current directory.
+pwd: Print current working directory.
+echo: Print message or variable value.
+alias: Create command shortcuts or aliases.
+history: Display command history.
+export: Set environment variables.
+unset: Unset environment variables.
+source: Execute commands from a file in the current shell.
+exec: Replace current process with a new process.
+exit: Terminate the current shell.
+read: Read input and assign it to a variable.
+printf: Print formatted output.
+shift: Shift positional parameters.
+trap: Execute a command when a signal is received.
+umask: Set default file permissions.
+wait: Wait for background processes to finish.
+eval: Evaluate a string as a command.
+fc: Edit and re-execute previous commands.
+bg: Resume suspended jobs in the background.
+fg: Bring suspended jobs to the foreground.
+jobs: List active jobs.
+kill: Send signals to processes.
+set: Set shell options and positional parameters.
+test: Evaluate expressions and conditions.
+shift: Shift positional parameters.
+type: Determine the type of a command.
+source: Execute commands from a file in the current shell.
+let: Evaluate arithmetic expressions.
+true: Do nothing, successfully.
+false: Do nothing, unsuccessfully.
+bg: Resume suspended jobs in the background.
+fg: Bring suspended jobs to the foreground.
+dirs: Display the list of remembered directories.
+popd: Remove a directory from the directory stack.
+pushd: Add a directory to the directory stack.
+complete: Specify command-line completion behavior.
+hash: Remember the locations of commands for quicker access.
+shopt: Set shell options.
+umask: Set default file permissions.
+ulimit: Set or display resource limits.
+return: Exit a function.
+source: Execute commands from a file in the current shell.
+builtin: Run a shell built-in command.
+command: Run a command ignoring any shell function or alias.
+type: Determine the type of a command.
+set: Set shell options and positional parameters.
+wait: Wait for background processes to finish.
+times: Display shell and process times.
+test: Evaluate expressions and conditions.
+exec: Replace current process with a new process.
